@@ -1,0 +1,1 @@
+A responsive Spotify Clone built using HTML and CSS that replicates the look and feel of Spotify's web player. This project was created to strengthen front-end development skills by practicing layouts, Flexbox, responsive design, and modern UI styling.
